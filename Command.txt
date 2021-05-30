@@ -1,1 +1,1 @@
-mkdir -p ~/aman/desktop/A/{B/{D/K/M/LUB,E/{K/M/LUB,J/N/LUB},F/{J/N/LUB,I/M/LUB}},C/{G/{I/M/LUB,L/N/LUB},H/{L/N/LUB}}}
+mkdir -p ~/aman/desktop/A/{B/{D/K/M/LNB,E/{K/M/LNB,J/N/LNB},F/{J/N/LNB,I/M/LNB}},C/{G/{I/M/LNB,L/N/LNB},H/{L/N/LNB}}}
