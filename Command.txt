@@ -1,0 +1,1 @@
+mkdir -p ~/aman/desktop/A/{B/{D/K/M/LUB,E/{K/M/LUB,J/N/LUB},F/{J/N/LUB,I/M/LUB}},C/{G/{I/M/LUB,L/N/LUB},H/{L/N/LUB}}}
