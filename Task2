@@ -1,2 +1,5 @@
+##1st
 sudo useradd -m -s /bin/bash user2
-sudo usermod --expiredate 1 user2
+
+##2nd
+sudo passwd -l user2
