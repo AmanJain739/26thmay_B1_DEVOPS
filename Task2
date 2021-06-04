@@ -1,6 +1,6 @@
 ##1
 sudo vim /etc/ssh/sshd_config
-##Remove # and Change port number from line 
+## Remove # and Change port number from line 
 #port port_number
 
 sudo systemctl restart ssh (restart ssh service)
