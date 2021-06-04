@@ -1,6 +1,1 @@
-sudo adduser --force-badname U1
-sudo adduser --force-badname U2
-sudo adduser --force-badname U3
-sudo usermod -a -G lnb U1
-sudo usermod -a -G lnb U2
-sudo usermod -a -G lnb U3
+
