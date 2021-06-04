@@ -5,4 +5,4 @@ sudo vim /etc/ssh/sshd_config
 
 sudo systemctl restart ssh (restart ssh service)
 ##try accessing the machine using new port number
-ssh -p newport_number username@remote_host_or_ip 
+ssh -p newport_number aman@192.168.0.135
