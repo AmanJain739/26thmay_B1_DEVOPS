@@ -1,0 +1,8 @@
+##1
+sudo vim /etc/ssh/sshd_config
+##Remove # and Change port number from line 
+#port port_number
+
+sudo systemctl restart ssh (restart ssh service)
+##try accessing the machine using new port number
+ssh -p newport_number username@remote_host_or_ip 
