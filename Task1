@@ -17,6 +17,8 @@ sudo usermod -a -G lnb U2
 sudo usermod -a -G lnb U3
 
 ##4th
+chmod 774 welcome/
+
 
 
 
