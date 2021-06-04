@@ -1,3 +1,0 @@
-sudo adduser test
-su - test
-cd Desktop

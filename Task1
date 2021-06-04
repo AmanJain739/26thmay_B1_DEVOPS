@@ -1,0 +1,13 @@
+## 1st 
+sudo adduser test
+su - test
+cd Desktop
+
+##2nd
+sudo addgroup lnb
+mkdir welcome
+sudo chgrp lnb welcome
+
+##3rd
+
+
