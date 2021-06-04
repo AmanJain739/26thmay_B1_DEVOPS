@@ -1,0 +1,2 @@
+##1st
+iptables -A INPUT -s 192.168.0.132 -j DROP
