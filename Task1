@@ -13,7 +13,7 @@ enter    // first sector
 <p>        // for printing the created partition
 <w>      // save 
 <#root- mkfs.xfs  /dev/xvdf>
-<#root- mount  /dev/xvdf1/mnt/new>
+<#root- mount  /dev/xvdf1 /mnt/new>
 <#root- df-hT> 
 
 3.Install apache web server
